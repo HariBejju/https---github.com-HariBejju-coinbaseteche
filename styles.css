@@ -1,0 +1,24 @@
+
+
+*{
+    margin: 0;
+    padding: 0px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: blue;
+    color: white;
+    height: 196px;
+
+}
+
+.rupees , .supportcount , .userscount{
+    align-items: center;
+    text-align: center;
+    font-size: 26px;
+    margin-bottom: 10px;
+    font-family: 'Orbitron', sans-serif;
+}
